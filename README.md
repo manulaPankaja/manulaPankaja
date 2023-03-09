@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manula Pankaja</h1>
+- 🔭 I’m an Undergraduate at University of Moratuwa
 - 🌱 I’m currently learning **ReactJS & NodeJS**
-
 - 📫 How to reach me **manulapankaja2225@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
