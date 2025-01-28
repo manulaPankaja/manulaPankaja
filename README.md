@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/manula_pankaja" target="blank"><img src="https://img.shields.io/twitter/follow/manula_pankaja?logo=twitter&style=for-the-badge" alt="manula_pankaja" /></a> </p>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **ASP .NET**
 
 - 👯 I’m looking to collaborate on **full-stack projects**
 
